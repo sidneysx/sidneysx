@@ -3,37 +3,37 @@
 <rect width="1042px" height="600px" fill="#f6f8fa" stroke="#d0d7de" rx="15"/>
 <text x="15" y="30" fill="#24292f" xml:space="preserve">
 <tspan x="15" y="30"></tspan>
-<tspan x="15" y="50">                         *++++-=+++++*</tspan>
-<tspan x="15" y="70">                    *+::....:::++==::.:+*</tspan>
-<tspan x="15" y="90">                  *=....::--++-+-:+++--..:+</tspan>
-<tspan x="15" y="110">                  ........=++******:..-=-:.-</tspan>
-<tspan x="15" y="130">                  ...***###%@@@@%%%#***+=++.*</tspan>
-<tspan x="15" y="150">                 *.-*#%%@@@%%@@@%%%%%%%# **+**</tspan>
-<tspan x="15" y="170">                  -*##%@@%@%@@%%%%####%%#* *+</tspan>
-<tspan x="15" y="190">                   *#*#%@@@%#**####%@%%%%***#%#</tspan>
-<tspan x="15" y="210">                    ** **#@@@%#####%@@%%%##@@@@</tspan>
-<tspan x="15" y="230">                    *##%*#@@%@@@@@@@@@@%%#*@@%#</tspan>
-<tspan x="15" y="250">                    #%%#*@@@@%@@@@@@@@@%%##@%*</tspan>
-<tspan x="15" y="270">                    *%%%#%@@@%@@@@@@@@@%#* #*</tspan>
-<tspan x="15" y="290">                     *##*+#######%@@@%###*</tspan>
-<tspan x="15" y="310">                       ***##%%%%%##@%###*##</tspan>
-<tspan x="15" y="330">                       **####%@@@@    *#%%#+:</tspan>
-<tspan x="15" y="350">                        *+*##### *+**%@@@%*+-:+</tspan>
-<tspan x="15" y="370">                      **+.+**++**#%@@@@@#*:=++-=*</tspan>
-<tspan x="15" y="390">                **++:.....:*###%@@@@@%#+:-+++++=::-++*</tspan>
-<tspan x="15" y="410">          **++-......:-==:-*#%%%%%%%*+.:+++++++::::::.:++*</tspan>
-<tspan x="15" y="430">       +-....::.:::.:...=--*#%%%#**+.:++++++++::::--:::::.</tspan>
-<tspan x="15" y="450">      ...-=::::--:::......::*%#*+:.....::-=++:.:--::::--</tspan>
-<tspan x="15" y="470">        =-::-=+=-------::.:..++:.::::-==-:.:=:--::.:==</tspan>
-<tspan x="15" y="490">          =+=========-::=.-++::::-=+====-----=--::+=</tspan>
-<tspan x="15" y="510">             ========--==:++=---=++-=-----==---:-</tspan>
-<tspan x="15" y="530">                 =======-++++-=++=-==-====+==</tspan>
-<tspan x="15" y="550">                       --+++--++===+===</tspan>
+<tspan x="15" y="50">                         **++++++++**</tspan>
+<tspan x="15" y="70">                     ++-.....::++--::::+*</tspan>
+<tspan x="15" y="90">                  *+.....:--++-++:=++--..-*</tspan>
+<tspan x="15" y="110">                  =.......-=+++++++:..-=-:.+</tspan>
+<tspan x="15" y="130">                  ...+****#%%@%%%%##***+===.</tspan>
+<tspan x="15" y="150">                  .:*#%%@@@@%@@@@%%%%%%# **+**</tspan>
+<tspan x="15" y="170">                  ++##%%@%%%@@@%%%%###%%#* *+</tspan>
+<tspan x="15" y="190">                   **##%@@@%%#*####%%%%%%#***##</tspan>
+<tspan x="15" y="210">                    ** *##@@%%#####%@@%%%##@@@@</tspan>
+<tspan x="15" y="230">                    **####@@@@@@@@@@@@@%%##@@%#</tspan>
+<tspan x="15" y="250">                    #%%%*@@@@%@@@@@@@@@%%##@%#</tspan>
+<tspan x="15" y="270"> *                  *%%%#%@@@@@@@@@@@@@%## #*</tspan>
+<tspan x="15" y="290">                     *#%*+#######%@@@%###*</tspan>
+<tspan x="15" y="310">  ***                  ***##%%%%%#%@%###*##</tspan>
+<tspan x="15" y="330"> *                     **####%@@@@* * *#%%#+-</tspan>
+<tspan x="15" y="350">                       * +*##%##  +**#%@@%*+:-*</tspan>
+<tspan x="15" y="370">                      **+.-**+****%%@@@@#*-=+=-+*</tspan>
+<tspan x="15" y="390">                 **+=......*###%@@@@@%#*--+++++=:-=++*</tspan>
+<tspan x="15" y="410">           *++-:......:-=::*#%%%%%%%*+::+++++++-:::::::++*</tspan>
+<tspan x="15" y="430">       *+........::.:...---*#%%%#**+.:+++++++=-:::--::::::</tspan>
+<tspan x="15" y="450">      :..:=::::--:::......::*%#*+:......::-=+:.:--::::--</tspan>
+<tspan x="15" y="470">        ==::-===-----=-:.....++:.::::-==-:.:=:--::.:==</tspan>
+<tspan x="15" y="490">          -+==========-:=.-++-:::-======-----=--::==</tspan>
+<tspan x="15" y="510">             ========---=:++=---=+===-----==---:-</tspan>
+<tspan x="15" y="530">                 =======-=+++-=++====-=======</tspan>
+<tspan x="15" y="550">                       --+++--++=======</tspan>
 </text>
 <text x="548" y="30" fill="#24292f" xml:space="preserve">
 <tspan x="548" y="30"><tspan fill="#24292f">sidneysx@github ——————————————————————————————————————</tspan></tspan>
 <tspan x="548" y="50"><tspan fill="#953800">OS</tspan><tspan fill="#24292f">: </tspan><tspan fill="#c2cfde">............................ </tspan><tspan fill="#0a3069">Debian Linux, Windows</tspan></tspan>
-<tspan x="548" y="70"><tspan fill="#953800">Uptime</tspan><tspan fill="#24292f">: </tspan><tspan fill="#c2cfde">.................... </tspan><tspan fill="#0a3069">26 anos, 9 meses, 15 dias</tspan></tspan>
+<tspan x="548" y="70"><tspan fill="#953800">Uptime</tspan><tspan fill="#24292f">: </tspan><tspan fill="#c2cfde">................... </tspan><tspan fill="#0a3069">27 anos, 11 meses, 16 dias</tspan></tspan>
 <tspan x="548" y="90"><tspan fill="#953800">Host</tspan><tspan fill="#24292f">: </tspan><tspan fill="#c2cfde">.................................... </tspan><tspan fill="#0a3069">gestto.shop</tspan></tspan>
 <tspan x="548" y="110"><tspan fill="#953800">Kernel</tspan><tspan fill="#24292f">: </tspan><tspan fill="#c2cfde">.......... </tspan><tspan fill="#0a3069">Estudante de Sistemas de Informação</tspan></tspan>
 <tspan x="548" y="130"><tspan fill="#953800">IDE</tspan><tspan fill="#24292f">: </tspan><tspan fill="#c2cfde">................................. </tspan><tspan fill="#0a3069">VS Code, Claude</tspan></tspan>
@@ -46,7 +46,7 @@
 <tspan x="548" y="310"><tspan fill="#953800">Delivery</tspan><tspan fill="#24292f">: </tspan><tspan fill="#c2cfde">................ </tspan><tspan fill="#0a3069">SaaS de delivery (Supabase)</tspan></tspan>
 <tspan x="548" y="330"><tspan fill="#953800">Game</tspan><tspan fill="#24292f">: </tspan><tspan fill="#c2cfde">......................... </tspan><tspan fill="#0a3069">Battle royale em Unity</tspan></tspan>
 <tspan x="548" y="370"><tspan fill="#24292f">— Contato ————————————————————————————————————————————</tspan></tspan>
-<tspan x="548" y="390"><tspan fill="#953800">Email</tspan><tspan fill="#24292f">: </tspan><tspan fill="#c2cfde">............................ </tspan><tspan fill="#0a3069">seuemail@gmail.com</tspan></tspan>
-<tspan x="548" y="410"><tspan fill="#953800">Instagram</tspan><tspan fill="#24292f">: </tspan><tspan fill="#c2cfde">............................ </tspan><tspan fill="#0a3069">@seu_instagram</tspan></tspan>
-<tspan x="548" y="430"><tspan fill="#953800">LinkedIn</tspan><tspan fill="#24292f">: </tspan><tspan fill="#c2cfde">............................ </tspan><tspan fill="#0a3069">in/seu-linkedin</tspan></tspan>
+<tspan x="548" y="390"><tspan fill="#953800">Email</tspan><tspan fill="#24292f">: </tspan><tspan fill="#c2cfde">......................... </tspan><tspan fill="#0a3069">sidneydev10@gmail.com</tspan></tspan>
+<tspan x="548" y="410"><tspan fill="#953800">Instagram</tspan><tspan fill="#24292f">: </tspan><tspan fill="#c2cfde">................................ </tspan><tspan fill="#0a3069">@so.usa.sx</tspan></tspan>
+<tspan x="548" y="430"><tspan fill="#953800">LinkedIn</tspan><tspan fill="#24292f">: </tspan><tspan fill="#c2cfde">.................. </tspan><tspan fill="#0a3069">in/sidney-silva-4372131b5</tspan></tspan>
 </text></svg>
