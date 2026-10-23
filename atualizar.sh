@@ -1,4 +1,3 @@
-#!/bin/sh
 # Gera o README/SVGs com o Uptime de hoje e sobe pro GitHub (só commita se mudou)
 set -e
 cd "$(dirname "$0")"
